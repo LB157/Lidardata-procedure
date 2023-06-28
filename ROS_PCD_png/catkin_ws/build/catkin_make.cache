@@ -1,0 +1,2 @@
+pcd_reader
+-DCATKIN_DEVEL_PREFIX=/home/liubo/personal/project/ROS_PCD_png/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/liubo/personal/project/ROS_PCD_png/catkin_ws/install -G Unix Makefiles

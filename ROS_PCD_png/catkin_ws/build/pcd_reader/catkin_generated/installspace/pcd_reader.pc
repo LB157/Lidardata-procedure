@@ -1,0 +1,8 @@
+prefix=/home/liubo/personal/project/ROS_PCD_png/catkin_ws/install
+
+Name: pcd_reader
+Description: Description of pcd_reader
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
