@@ -1,0 +1,2 @@
+read_pcd
+-DCATKIN_DEVEL_PREFIX=/home/liubo/Downloads/lidar-data-procedure/ROS_PCD_png/de_ws/devel -DCMAKE_INSTALL_PREFIX=/home/liubo/Downloads/lidar-data-procedure/ROS_PCD_png/de_ws/install -G Unix Makefiles

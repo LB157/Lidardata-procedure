@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="(empty)"
+	BuildStamp="20230701-0554-Experimental"
+	Name="liubo-OptiPlex-7040"
+	Generator="ctest-3.16.3"
+	CompilerName="/usr/bin/c++"
+	CompilerVersion="9.4.0"
+	OSName="Linux"
+	Hostname="liubo-OptiPlex-7040"
+	OSRelease="5.15.0-75-generic"
+	OSVersion="#82~20.04.1-Ubuntu SMP Wed Jun 7 19:37:37 UTC 2023"
+	OSPlatform="x86_64"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="94"
+	ProcessorCacheSize="8192"
+	NumberOfLogicalCPU="8"
+	NumberOfPhysicalCPU="4"
+	TotalVirtualMemory="2047"
+	TotalPhysicalMemory="15852"
+	LogicalProcessorsPerPhysical="2"
+	ProcessorClockFrequency="3400"
+	>
+	<Testing>
+		<StartDateTime>Jul 01 14:06 CST</StartDateTime>
+		<StartTestTime>1688191578</StartTestTime>
+		<TestList/>
+		<EndDateTime>Jul 01 14:06 CST</EndDateTime>
+		<EndTestTime>1688191578</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>

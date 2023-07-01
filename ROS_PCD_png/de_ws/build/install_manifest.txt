@@ -1,0 +1,9 @@
+/home/liubo/Downloads/lidar-data-procedure/ROS_PCD_png/de_ws/install/_setup_util.py
+/home/liubo/Downloads/lidar-data-procedure/ROS_PCD_png/de_ws/install/env.sh
+/home/liubo/Downloads/lidar-data-procedure/ROS_PCD_png/de_ws/install/setup.bash
+/home/liubo/Downloads/lidar-data-procedure/ROS_PCD_png/de_ws/install/local_setup.bash
+/home/liubo/Downloads/lidar-data-procedure/ROS_PCD_png/de_ws/install/setup.sh
+/home/liubo/Downloads/lidar-data-procedure/ROS_PCD_png/de_ws/install/local_setup.sh
+/home/liubo/Downloads/lidar-data-procedure/ROS_PCD_png/de_ws/install/setup.zsh
+/home/liubo/Downloads/lidar-data-procedure/ROS_PCD_png/de_ws/install/local_setup.zsh
+/home/liubo/Downloads/lidar-data-procedure/ROS_PCD_png/de_ws/install/.rosinstall

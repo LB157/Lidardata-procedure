@@ -1,0 +1,8 @@
+prefix=/home/liubo/Downloads/lidar-data-procedure/ROS_PCD_png/de_ws/devel
+
+Name: read_pcd
+Description: Description of read_pcd
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
